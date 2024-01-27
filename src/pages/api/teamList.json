@@ -1,0 +1,52 @@
+{
+  "TeamList": [
+    {
+      "name": "A.S. DOUANES (SENEGAL)",
+      "imageUrl": "/images/teams/enzb8py2rwuox3byaqpi.jpg"
+    },
+    {
+      "name": "ABIDJAN BASKET CLUB (IVORY COAST)",
+      "imageUrl": "/images/teams/AbidjanLogo.jpeg"
+    },
+    {
+      "name": "AL AHLY (EGYPT)",
+      "imageUrl": "/images/teams/TEAM-LOGOS-900x506-11.jpg"
+    },
+    {
+      "name": "CFV BEIRA (MOZAMBIQUE)",
+      "imageUrl": "/images/teams/CBF.jpeg"
+    },
+    {
+      "name": "CAPE TOWN TIGERS (SOUTH AFRICA)",
+      "imageUrl": "/images/teams/capetown.jpeg"
+    },
+    {
+      "name": "CITY OILERS (UGANDA)",
+      "imageUrl": "/images/teams/TEAM-LOGOS-900x506-12.jpg"
+    },
+    {
+      "name": "KWARA FALCONS (NIGERIA)",
+      "imageUrl": "/images/teams//TEAM-LOGOS-900x506-06.jpg"
+    },
+    {
+      "name": "PETRO DE LUANDA (ANGOLA)",
+      "imageUrl": "/images/teams/logo-Basketball_PETRO-ATLETICO-01-01.png"
+    },
+    {
+      "name": "R.E.G (RWANDA)",
+      "imageUrl": "/images/teams/REG-1.jpeg"
+    },
+    {
+      "name": "S.L.A.C BASKETBasketballL (GUINEA)",
+      "imageUrl": "/images/teams/Screen-Shot-2023-03-06-at-5.15.12-PM.jpeg"
+    },
+    {
+      "name": "STADE MALIEN (MALI)",
+      "imageUrl": "/images/teams/Screen-Shot-2023-02-08-at-3.49.31-PM.jpeg"
+    },
+    {
+      "name": "U.S. MONASTIR (TUNISIA)",
+      "imageUrl": "/images/teams/jolpjrv7vfikjtpclrz0.jpeg"
+    }
+  ]
+}

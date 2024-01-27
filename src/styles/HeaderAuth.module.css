@@ -1,0 +1,30 @@
+.connectWalletBtn {
+    color: black !important;
+    background-color: #dbff4d !important;
+  }
+  
+  .avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 1rem;
+    border: #0ea5e9 solid 2px;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .avatar:hover {
+    border: skyblue solid 2px;
+    cursor: pointer;
+  }
+
+  .profileDropdown {
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    width: 240px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }

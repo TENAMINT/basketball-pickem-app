@@ -1,0 +1,82 @@
+{
+  "GameSchedule": [
+    {
+      "day": "Thu",
+      "time": "8:00 PM EDT",
+      "matchup": {
+        "team1": "CAPE TOWN TIGERS",
+        "team2": "A.S. DOUANES"
+      },
+      "rate": {
+        "team1": 34,
+        "team2": 66
+      },
+      "winner": null
+    },
+    {
+      "day": "Thu",
+      "time": "10:00 PM EDT",
+      "matchup": {
+        "team1": "PETRO DE LUANDA",
+        "team2": "S.L.A.C"
+      },
+      "rate": {
+        "team1": 19,
+        "team2": 81
+      },
+      "winner": null
+    },
+    {
+      "day": "Fri",
+      "time": "7:30 PM EDT",
+      "matchup": {
+        "team1": "CFV BEIRA",
+        "team2": "ABIDJAN BASKET CLUB"
+      },
+      "rate": {
+        "team1": 44,
+        "team2": 56
+      },
+      "winner": null
+    },
+    {
+      "day": "Sat",
+      "time": "3:00 PM EDT",
+      "matchup": {
+        "team1": "CAPE TOWN TIGERS",
+        "team2": "AL AHLY"
+      },
+      "rate": {
+        "team1": 27,
+        "team2": 73
+      },
+      "winner": null
+    },
+    {
+      "day": "Sun",
+      "time": "6:00 PM EDT",
+      "matchup": {
+        "team1": "R.E.G",
+        "team2": "CITY OILERS"
+      },
+      "rate": {
+        "team1": 44,
+        "team2": 56
+      },
+      "winner": null
+    },
+    {
+      "day": "Mon",
+      "time": "9:00 PM EDT",
+      "matchup": {
+        "team1": "STADE MALIEN",
+        "team2": "KWARA FALCONS"
+      },
+      "rate": {
+        "team1": 27,
+        "team2": 73
+      },
+      "winner": null
+    }
+  ]
+}

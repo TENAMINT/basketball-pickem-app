@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  /* color-scheme: dark; */
+}
+
+body {
+  color: #333;
+  background: #fff;
+}
+
+p {
+  line-height: 32px;
+  margin-bottom: 16px;
+}
+
+.container {
+  max-width: 1024px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 2rem;
+}
+
+/* input#email{
+  background: #fff!important;
+} */
+
+.cta-btn {
+  color: black;
+  background-color: #dbff4d;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  text-align: center;
+  width: 100%;
+  border-radius: 4px;
+  width: 100%;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.web3auth-btn,
+.firebaseAuth-btn {
+  color: black;
+  background-color: #dbff4d;
+  text-align: center;
+  width: 100%;
+  border-radius: 8px;
+  width: 100%;
+  padding: 14px 30px 14px 30px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.firebaseAuth-btn-black {
+  color: black;
+  background-color: #f3f3f3;
+  text-align: center;
+  width: 100%;
+  border-radius: 8px;
+  width: 100%;
+  padding: 14px 30px 14px 30px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+/* .two-column-bg {
+  display: flex;
+} */
+
+/* .grid-cols-3 > div:first-child,
+.grid-cols-3 > div:first-child {
+  background: url("/images/teams/TEAM-LOGOS-900x506-11.jpg") no-repeat center
+    center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.2;
+  flex: 1;
+}
+
+.grid-cols-3 > div:nth-child(3) {
+  background: url("/images/teams/capetown.jpeg") no-repeat center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.2;
+  flex: 1;
+} */
+
+.background1 {
+  background-image: url('/images/teams/capetown.jpeg"');
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+}
+
+.background2 {
+  background-image: url('/images/teams/capetown.jpeg"');
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 100%;
+}

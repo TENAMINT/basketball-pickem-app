@@ -1,0 +1,17 @@
+{
+  "GameSchedule": [
+    {
+      "day": "Thu",
+      "time": "8:00 PM EDT",
+      "matchup": {
+        "team1": "CAPE TOWN TIGERS",
+        "team2": "A.S. DOUANES"
+      },
+      "rate": {
+        "team1": 34,
+        "team2": 66
+      },
+      "winner": null
+    }
+  ]
+}

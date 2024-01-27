@@ -1,0 +1,55 @@
+{
+    "leaderboard": [
+      { 
+        "name": "Marcus Orllyus",
+        "points": 4500,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "waltyao",
+        "points": 4400,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "Creaditcoin",
+        "points": 4300,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "stevenPollack",
+        "points": 4200,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "hugofurn",
+        "points": 4100,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "salshuttlesworth",
+        "points": 4000,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "Sahhari_gorji",
+        "points": 3900,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "tenaminter",
+        "points": 3800,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "a_liutiev",
+        "points": 3700,
+        "profile_image": "/images/profile-img.jpg"
+      },
+      {
+        "name": "jcgravivity",
+        "points": 250,
+        "profile_image": "/images/profile-img.jpg"
+      }
+    ]
+  }
+  
