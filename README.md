@@ -1,6 +1,8 @@
 # Basketball Pick'em App
 Welcome to the Basketball Pick'em App, an exciting and interactive platform for basketball enthusiasts! This app blends the thrill of live sports predictions with the world of digital collectibles and unique fan experiences. Below are some of the key features and integrations that enhance your experience with our app:
 
+[![Video Presentation]](https://drive.google.com/file/d/15gGwygAfmzW8M0Nx0_qaFUKsEg0rQM-6/view?usp=sharing)
+
 ## Key Features
 - Dynamic Live Match Predictions: Engage actively with live sports events by making real-time predictions on scores, player performances, and key play outcomes. Earn immediate rewards for correct predictions, enhancing your live viewing experience.
 

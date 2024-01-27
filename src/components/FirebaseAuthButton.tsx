@@ -82,7 +82,7 @@ const FirebaseAuthButton = () => {
         <>
           <div className="flex justify-center items-center gap-10">
             <div>
-              <NearWallet />
+              {/* <NearWallet /> */}
             </div>
             <div>
               <Popover className="relative">
@@ -192,6 +192,7 @@ const FirebaseAuthButton = () => {
       ) : (
         <>
         <div className="flex gap-4">
+        <NearWallet />
           <Link href="/login" passHref>
             <button className="firebaseAuth-btn-black text-sm">Log In</button>
           </Link>
