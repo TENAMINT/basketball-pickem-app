@@ -56,6 +56,7 @@ export default function NearWallet() {
             width={28}
             height={28}
             alt="NEAR"
+            className="mt-3 mr-2"
           />
           {/* <svg
             xmlns="http://www.w3.org/2000/svg"
