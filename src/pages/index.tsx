@@ -7,7 +7,7 @@ import CradPackCTA from "../components/CardPacksCTA";
 import LeaderboardList from "../components/LeaderboardList";
 import GameSchedule from "../components/GameSchedule";
 import PartnerLogos from "../components/PartnerLogos";
-
+// Deploy
 export default function Home() {
   return (
     <>
